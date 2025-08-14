@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/VinzzSlayer/Baileys"><img src="https://img.shields.io/github/stars/VinzzSlayer/Baileys?style=for-the-badge" alt="Baileys"></a>
-  <a href="https://github.com/VinzzOfficial"><img src="https://github.com/VinzzOfficial" alt="Github"></a>
+  <a href="https://github.com/VinzzOfficial"><img src="https://github.com/VinzzOfficial" alt="Github"></p>
 
 ---
 
